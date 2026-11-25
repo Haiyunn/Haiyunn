@@ -9,7 +9,7 @@ Ph.D. candidate in Vehicle Engineering at **Tongji University**, working on 3D r
 
 - **First author, SceneGrow** — Feed-forward reconstruction of temporally consistent driving scenes; submitted to **CVPR 2027**.
 - **Multimodal LiDAR-Camera Novel View Synthesis with Unified Pose-free Neural Fields** — Accepted at **NeurIPS 2026**.
-- [**ICRA 2026 paper**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vZWiPQkAAAAJ&citation_for_view=vZWiPQkAAAAJ:9yKSN-GCB0IC) — Accepted at **ICRA 2026**.
+- **Efficient Trajectory-Conditioned Text-to-4D Gaussian Splatting** — Accepted at **ICRA 2026**.
 - **GeoNLF: Geometry-guided Pose-Free Neural LiDAR Fields** — Accepted at **NeurIPS 2025**.
 - **First author, LiDARDraft: Generating LiDAR Point Cloud from Versatile Inputs** — Submitted to **IEEE Transactions on Vehicular Technology (TVT)**.
 

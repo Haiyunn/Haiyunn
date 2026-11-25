@@ -3,15 +3,15 @@
 Ph.D. candidate in Vehicle Engineering at **Tongji University**, working on 3D reconstruction and generative modeling for autonomous driving.
 
 **Research:** Driving scene reconstruction · 3D generation · Neural fields · Diffusion models  
-**Email:** [2311399@tongji.edu.cn](mailto:2311399@tongji.edu.cn) · **Location:** Shanghai, China
+**Email:** [2311399@tongji.edu.cn](mailto:2311399@tongji.edu.cn) · **Location:** Shanghai, China · [Google Scholar](https://scholar.google.com/citations?user=vZWiPQkAAAAJ&hl=en)
 
 ## Research Highlights
 
 - **First author, SceneGrow** — Feed-forward reconstruction of temporally consistent driving scenes; submitted to **CVPR 2027**.
-- **NeurIPS 2026** — Co-authored work on pose-free multimodal LiDAR-camera novel view synthesis.
-- **ICRA 2026** — Co-authored work on trajectory-guided 4D video generation.
-- **NeurIPS 2025** — Co-authored **GeoNLF**, geometry-guided pose-free neural LiDAR fields.
-- **First author, LiDARDraft** — Flexible LiDAR generation from text, images, and point clouds; submitted to **ECCV**.
+- **Multimodal LiDAR-Camera Novel View Synthesis with Unified Pose-free Neural Fields** — Accepted at **NeurIPS 2026**.
+- [**Trajectory-Guided 4D Video Generation with HexPlane Representation**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vZWiPQkAAAAJ&citation_for_view=vZWiPQkAAAAJ:9yKSN-GCB0IC) — Accepted at **ICRA 2026**.
+- **GeoNLF: Geometry-guided Pose-Free Neural LiDAR Fields** — Accepted at **NeurIPS 2025**.
+- **First author, LiDARDraft: Generating LiDAR Point Cloud from Versatile Inputs** — Submitted to **IEEE Transactions on Vehicular Technology (TVT)**.
 
 ## Selected Experience
 
@@ -24,8 +24,7 @@ Ph.D. candidate in Vehicle Engineering at **Tongji University**, working on 3D r
 ## Education
 
 **Tongji University** · Ph.D. candidate, Vehicle Engineering (AI and Autonomous Driving) · 2023–present  
-**Tongji University** · B.Eng., Vehicle Engineering (Automotive Electronics and Intelligence) · 2018–2023  
-Undergraduate overall score: **90.47/100**
+**Tongji University** · B.Eng., Vehicle Engineering (Automotive Electronics and Intelligence) · 2018–2023 · Overall score: **90.47/100**
 
 ## Selected Honors
 

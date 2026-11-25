@@ -21,6 +21,9 @@ Ph.D. candidate in Vehicle Engineering at **Tongji University**, working on 3D r
 - **Shanghai Artificial Intelligence Laboratory · Research Intern** *(2024–2025)*  
   Built task-driven Real2Sim scene generation workflows for embodied AI and supported VLM-based robot experiments.
 
+- **NIO · Battery Data & Product Experience Intern** *(2022–2023)*  
+  Used Python and MySQL to analyze battery telemetry, SOC/SOH trends, and driving behavior; built Power BI dashboards and contributed data-driven insights for product experience improvements.
+
 ## Education
 
 **Tongji University** · Ph.D. candidate, Vehicle Engineering (AI and Autonomous Driving) · 2023–present  
